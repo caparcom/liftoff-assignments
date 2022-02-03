@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+Upload a .PDF of your presentation here for review.[Project Presentation LiftOff Capstone.pdf](https://github.com/caparcom/liftoff-assignments/files/7998554/Project.Presentation.LiftOff.Capstone.pdf)
